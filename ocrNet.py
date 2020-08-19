@@ -14,7 +14,7 @@ from PyQt4 import QtGui, QtCore
 from PyQt4.QtGui import *
 from PyQt4.QtCore import *
 from PyQt4.QtCore import Qt
-from PyQt4.QtGui import QMessageBox, QFileDialog, QImageReader, QTableWidgetItem, QLabel, QPixmap, QWidget, QLineEdit, QGridLayout, QPushButton, QPainter, QPen, QSizePolicy
+from PyQt4.QtGui import QLabel, QPixmap, 
 from ocr_window import Ui_MainWindow
 from libs.ustr import ustr
 
